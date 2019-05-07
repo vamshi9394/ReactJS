@@ -1,0 +1,31 @@
+
+.bgamenitiesing{
+    background-image: url(../img/bgamenitis.jpg)
+}
+
+.second-left-content {
+    height: 325px;
+    align-items: center;
+    display: inline-flex;
+}
+
+.second-left-flex {
+    /* position: relative;    
+    border: 1px solid #ffff;
+    padding-right: 60px; */
+
+    display: inline-block;
+    width: 100%;
+    top: -15px;
+    z-index: 99;
+    padding: 20px;
+    right: auto;
+    padding-left: 19px;
+    padding-right: 57px;
+    left: 92px;
+    padding-top: 30px;
+}
+
+.second-top-left-title {
+    padding-left: 10px;
+}

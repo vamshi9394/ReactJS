@@ -1,0 +1,78 @@
+.spad {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+/* FORM */
+
+.sppb-row-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  @media (min-width: 768px) {
+    .sppb-row-container {
+      width: 750px;
+    }
+  }
+  @media (min-width: 992px) {
+    .sppb-row-container {
+      width: 970px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .sppb-row-container {
+      width: 1170px;
+    }
+  }
+  #contact-form .form-group {
+    height: 40px;
+    margin-bottom: 23px;
+}
+
+#contact-form .input-group-addon {
+    background: #325b87;
+    color: #fff;
+    width: 35px;
+    border: 0;
+}
+
+/* FORM */
+.services-section .section-title {
+    margin-bottom: 40px;
+    padding-top: 15px;
+}
+
+.section-title h4 {
+	font-weight: 600;
+	margin-bottom: 15px;
+    text-transform: uppercase;
+    color: white !important;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+.bgforming{
+    background-image: url(../img/service-bg.jpg)
+}
+
+.form-iotext{
+    font-size: medium !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    font-family: sans-serif !important;
+}
+
+.form-btn {
+    margin: 0px auto;
+    display: block;
+    background: #325b87;
+    border-color: #325b87;
+    color: #fff;
+    font-size: 18px;
+    padding: 8px 39px 8px;
+}
+
+/* FORM */
