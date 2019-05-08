@@ -6,7 +6,7 @@ class Amenitiespage extends Component {
     render() { 
         return ( 
             <div>
-                
+                hello world
                 <div className="spad set-bg bgamenitiesing">
                     <div className="container">
                     <div className="section-title text-center">
